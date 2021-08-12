@@ -1,6 +1,6 @@
 # ICC Rankings Project
 
-![ICClogo.jpg](attachment:ICClogo.jpg)
+![ICClogo.jpg](https://github.com/Kamesh-Mishra/ICC-Rankings/blob/main/image/ICClogo.jpg)
 
 <p>The ICC Men's ODI Team Rankings (formerly known as the ICC ODI Championship) is an international One Day International (ODI) cricket rankings system of the International Cricket Council (ICC). After every ODI match, the two teams involved receive points based on a mathematical formula. Each team's points total is divided by their total number of matches played to give a rating, and all the teams are ranked in a table in order of rating.
 
